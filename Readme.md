@@ -49,7 +49,7 @@ Para utilizar este proyecto:
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
+   git clone https://github.com/Feelo-bit/challenge-alura-encriptador.git
    ```
 
 2. **Abrir el archivo `index.html`** en tu navegador para ver la interfaz en acción.
